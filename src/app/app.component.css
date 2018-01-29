@@ -1,0 +1,21 @@
+.esconde {
+    display: none;
+}
+
+.mostra {
+    display: '';
+}
+
+form{
+    width: 30%;
+    height: 5%;
+    margin: 50px;
+
+    
+}
+
+button{
+    margin-left: 40%;
+    margin-top: 20px;
+    
+}

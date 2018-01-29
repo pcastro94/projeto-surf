@@ -3,13 +3,19 @@ img{
     height: 502px;
 }
 
-form{
-    width: 30%;
-    height: 5%;
-    margin-top: 90px;
-    
-}
+
 
 div{
     margin: 0;
 }
+
+p{
+    font-size: 18px;
+    margin: 50px 100px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+

@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  escondeMiolo = false;
+  esconder() {
+    this.escondeMiolo = true;
+    console.log('oi');
+  }
 }
